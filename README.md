@@ -4,7 +4,8 @@ Embedding figures for the $7595$ planar triangulations on $12$ vertices and thei
 
 <hr>
 
-* to be uploaded for review
+* `plane_comp-torus_embeds-unique.txt`
+* `plane_comp-torus_embeds-unique-figs.pdf
 
 <hr>
 
